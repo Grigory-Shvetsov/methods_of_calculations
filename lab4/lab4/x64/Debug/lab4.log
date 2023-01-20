@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(70,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(770): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> gauss<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<double,std::allocator<double>> &)"
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(866): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> eigenvector<double>(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>,T,const std::vector<double,std::allocator<double>> &,T)"
+          with
+          [
+              T=double
+          ]
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(545,48): warning C4244: +=: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(568): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> eigValQRSimple<double>(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,T)"
+          with
+          [
+              T=double
+          ]
+C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\main.cpp(936): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::pair<double,std::vector<double,std::allocator<double>>>,std::allocator<std::pair<double,std::vector<double,std::allocator<double>>>>> eigValVecQRSimple<double>(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,T)"
+          with
+          [
+              T=double
+          ]
+  lab4.vcxproj -> C:\Users\griho\OneDrive\Рабочий стол\Методы вычислений\Лабы\lab4\lab4\x64\Debug\lab4.exe

@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Общие сведения о прямых методах решения СЛАУ}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Метод Гаусса (с полным или частичным выбором главного элемента)}}}}}{3}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.1.\ }}}{\ignorespaces {Метод Гаусса}}}{3}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.2.\ }}}{\ignorespaces {Выбор главного элемента}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {3.\ }}}}{{\textbf {\ignorespaces {Метод QR-разложения}}}}}{4}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {4.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{6}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {5.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{13}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{16}{}%

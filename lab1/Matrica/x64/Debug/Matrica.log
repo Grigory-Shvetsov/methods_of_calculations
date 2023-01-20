@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(138,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(618): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<ddouble_t,std::allocator<ddouble_t>> gauss<ddouble_t>(std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,std::vector<ddouble_t,std::allocator<ddouble_t>> &)"
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(326,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(640): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<ddouble_t,std::allocator<ddouble_t>> fun_qr<ddouble_t>(std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,const std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,const std::vector<ddouble_t,std::allocator<ddouble_t>> &)"
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(552,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(710): message : выполняется компиляция ссылки на экземпляр шаблон функции "T mark_downInf<ddouble_t>(const std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,const std::vector<ddouble_t,std::allocator<ddouble_t>> &,const std::vector<ddouble_t,std::allocator<ddouble_t>> &)"
+          with
+          [
+              T=ddouble_t
+          ]
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(463,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(552): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> inverse<ddouble_t>(const std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &)"
+C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\main.cpp(710): message : выполняется компиляция ссылки на экземпляр шаблон функции "T mark_downInf<ddouble_t>(const std::vector<std::vector<ddouble_t,std::allocator<ddouble_t>>,std::allocator<std::vector<ddouble_t,std::allocator<ddouble_t>>>> &,const std::vector<ddouble_t,std::allocator<ddouble_t>> &,const std::vector<ddouble_t,std::allocator<ddouble_t>> &)"
+          with
+          [
+              T=ddouble_t
+          ]
+  Matrica.vcxproj -> C:\Users\griho\OneDrive\Рабочий стол\С++\Новая папка\Matrica\x64\Debug\Matrica.exe

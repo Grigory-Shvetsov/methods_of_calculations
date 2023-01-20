@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{7}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.1.\ }}}{\ignorespaces {Функция $x$}}}{7}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.2.\ }}}{\ignorespaces {Функция $x^2$}}}{7}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.3.\ }}}{\ignorespaces {Функция $\hbox {\footnotesize $\displaystyle \frac {1}{\arcctg {(1+10 x^2)}}$}$}}}{10}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.4.\ }}}{\ignorespaces {Функция $\hbox {\footnotesize $\displaystyle \frac {1}{1+x^2}$}$}}}{11}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.5.\ }}}{\ignorespaces {Функция $\hbox {\footnotesize $\displaystyle \frac {1}{1+25x^2}$}$}}}{12}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.6.\ }}}{\ignorespaces {Функция $(4 x^3+2 x^2-4x+2)^{\sqrt 2} +\qopname \relax o{arcsin}{\left (\hbox {\footnotesize $\displaystyle \frac {1}{5+x-x^2}$}\right )}-5$}}}{13}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{14}{}%
